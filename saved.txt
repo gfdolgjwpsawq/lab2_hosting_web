@@ -1,0 +1,3 @@
+    <form>
+        <input type="button" onclick="window.location.href = '';" value="FPFFFF КНОПКА P:GLKDF"GLJD:"OLJ"/>
+      </form>
