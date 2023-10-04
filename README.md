@@ -1,2 +1,2 @@
 # lab2_hosting_web
-WEB 1
+WEB 1 
